@@ -1,3 +1,5 @@
+Sorting project includes:
+
 N integers from a file and that creates a random array and uses the insertion sort algorithm.
 insertion sort algorithm such that it sorts the input integer array in descending order, and start sorting the array FROM-RIGHT-TO-LEFT.
 the Insertion sort algorithm with an array of double values
